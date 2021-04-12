@@ -3,6 +3,4 @@
 /build
 *.pro.*
 Makefile*
-*.jpg
-*.png
 *.obj

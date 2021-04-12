@@ -50,6 +50,7 @@ void Test::testDelaunay()
 
         }
         cv::imshow("img",img);
+        cv::imwrite("result\\test.png",img);
         cv::waitKey(0);
     }
 }
