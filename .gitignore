@@ -4,3 +4,4 @@
 *.pro.*
 Makefile*
 *.obj
+/build-vs2017
